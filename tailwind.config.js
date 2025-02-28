@@ -25,6 +25,9 @@ module.exports = {
         "gega-white":"#F7F7F7",
       },
       spacing:{
+        85 : "360px",
+        90 : "300px",
+        100 : "20rem",
         104 :"25rem",
         128 :"32rem",
         133 : "35rem",
